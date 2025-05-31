@@ -475,10 +475,10 @@ hr {
 
 .loader-name {
     color: white;
-    font-size: 2.5rem;
+    font-size: 1.25rem;
     font-weight: 800;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing:3px;
     margin-top: 20px;
     opacity: 0;
     animation: fadeIn 0.8s ease-out forwards;
@@ -504,7 +504,7 @@ hr {
 
 .loader-subtitle {
     color: #00ff88;
-    font-size: 1.2rem;
+    font-size:0.75rem;
     margin-top: 20px;
     opacity: 0;
     animation: fadeIn 0.8s ease-out 0.5s forwards;
